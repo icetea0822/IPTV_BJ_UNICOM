@@ -175,8 +175,6 @@ http://192.168.5.1:4022/rtp/239.3.1.220:4220
 http://192.168.5.1:4022/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-id="" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="[高清]北京",中国教育1台[高清]
 http://192.168.5.1:4022/rtp/239.3.1.57:8152
-
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.5.1:4022/rtp/239.3.1.1:8000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -209,7 +207,6 @@ http://192.168.5.1:4022/rtp/239.3.1.14:8236
 http://192.168.5.1:4022/rtp/239.3.1.15:8052
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.5.1:4022/rtp/239.3.1.150:8064
-
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视;北京",BRTV北京卫视
 http://192.168.5.1:4022/rtp/239.3.1.225:8000
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",BRTV文艺
@@ -303,7 +300,6 @@ http://192.168.5.1:4022/rtp/239.3.1.40:8200
 http://192.168.5.1:4022/rtp/239.3.1.155:4120
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://192.168.5.1:4022/rtp/239.3.1.144:4120
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",山东教育
 http://192.168.5.1:4022/rtp/239.3.1.52:4120
 #EXTINF:-1 tvg-id="73" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="北京IPTV",中国教育1台
@@ -388,8 +384,6 @@ http://192.168.5.1:4022/rtp/239.3.1.89:4120
 http://192.168.5.1:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",爱生活
 http://192.168.5.1:4022/rtp/239.3.1.86:4120
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",聚鲨健康
 http://192.168.5.1:4022/rtp/239.3.1.186:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",聚鲨生活
