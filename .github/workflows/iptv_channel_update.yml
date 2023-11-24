@@ -22,4 +22,5 @@ jobs:
       with:
           message: 'Add new file'
           add: '*.m3u --force'
+          token: ${{ secrets.TOKEN}}
           push: 'origin ${{ github.event.inputs.branch }} --force'
