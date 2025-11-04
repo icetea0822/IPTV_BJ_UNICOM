@@ -17,7 +17,7 @@ jobs:
     - name: wget
       run: wget https://raw.githubusercontent.com/wuwentao/bj-unicom-iptv/master/bj-unicom-iptv.m3u -O my-bj-unicom-iptv.m3u
     - name: modify outdoor
-      run: find -name 'my-bj-unicom-iptv.m3u' | xargs perl -pi -e 's|rtp://|http://192.168.5.1:4022/rtp/|g'
+      run: find -name 'my-bj-unicom-iptv.m3u' | xargs perl -pi -e 's|rtp://|http://wsy.930225.xyz:4022/rtp/|g'
     - uses: EndBug/add-and-commit@v9
       with:
           message: 'Add new file'
